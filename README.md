@@ -1,4 +1,4 @@
-# UAV AI Radar Detection System
+<img width="3840" height="1826" alt="UAV_Full_Assembly4" src="https://github.com/user-attachments/assets/6b83f057-7174-4170-b334-b6fbe29ea389" /><img width="3840" height="1826" alt="UAV_Full_Assembly3" src="https://github.com/user-attachments/assets/fc6e99e6-0c38-46d0-8ae2-6780e8cba9db" /># UAV AI Radar Detection System
 
 A fixed-wing UAV with onboard mmWave radar and AI for autonomous detection and classification of humans, vehicles, and drones in real time.
 
@@ -59,9 +59,9 @@ The system uses a TI IWR6843 60–64 GHz mmWave radar sensor, with all AI infere
 - **Target AUW:** ≤ 500g
 - **CAD Software:** Fusion 360
 
-- ![UAV Front View](Screenshot_front.png)
-- ![UAV Top View](Screenshot_top.png)
-- ![UAV Side View](Screenshot_side.png)
+- ![UAV Back View](UAV_Full_Assembly4.png)
+- ![UAV Top View](UAV_Full_Assembly3.png)
+- ![UAV Side View](UAV_Full_Assembly2.png)
 
 ---
 
