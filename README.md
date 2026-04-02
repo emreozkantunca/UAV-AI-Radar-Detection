@@ -59,6 +59,10 @@ The system uses a TI IWR6843 60–64 GHz mmWave radar sensor, with all AI infere
 - **Target AUW:** ≤ 500g
 - **CAD Software:** Fusion 360
 
+- ![UAV Front View](Screenshot_front.png)
+- ![UAV Top View](Screenshot_top.png)
+- ![UAV Side View](Screenshot_side.png)
+
 ---
 
 ## Electronics Layout
